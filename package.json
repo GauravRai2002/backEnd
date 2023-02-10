@@ -8,5 +8,24 @@
     "mongodb": "^4.13.0",
     "mongoose": "^6.8.3",
     "nodemon": "^2.0.20"
-  }
+  },
+  "name": "dairybackend",
+  "description": "��#\u0000 \u0000b\u0000a\u0000c\u0000k\u0000E\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravRai2002/backEnd.git"
+  },
+  "author": "gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravRai2002/backEnd/issues"
+  },
+  "homepage": "https://github.com/GauravRai2002/backEnd#readme"
 }
